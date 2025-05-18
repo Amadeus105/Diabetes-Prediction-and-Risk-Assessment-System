@@ -73,9 +73,11 @@ json
   "probability": 0.85,
   "result": "Diabetic"
 }
-Deployment
-You can deploy this API to platforms like Render, Heroku, or others.
-Make sure to upload your models/ folder with saved model and scaler files.
+Screenshots:
+![image](https://github.com/user-attachments/assets/7517493a-48ae-459b-bec7-d62732da783e)
+![image](https://github.com/user-attachments/assets/1261868e-ff69-4706-b2fe-6bc1b90aa767)
+
+
 
 License
 MIT License
